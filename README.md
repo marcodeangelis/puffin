@@ -1,0 +1,2 @@
+# puffin
+Engineers often recognise the advantages of applying uncertainty analysis to their complex simulations, they often lack the time, patience or expertise to undertake that analysis. We describe a software tool, named puffin, that takes existing code and converts in to uncertainty aware code in the same language making use of intrusive uncertainty propagation techniques. It can work either automatically or with user specification of the uncertainties involved in the system.
